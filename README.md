@@ -1,6 +1,6 @@
 ### Hi there, I am Karan 👋
 
- A Dork basically loves to code while watching movies while sipping a cup of coffee.
+ A Dork basically loves to code while watching movies and sipping a cup of coffee.
  I am a Microsoft Learn Student Ambassador, MERN Stack developer and i love to contribute to open source community. I am currently exploring React Native.
 
 - 🔭 I’m currently working on 
