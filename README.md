@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Udayan Das</h1>
 <h3 align="center">A Dork basically loves to code while watching movies and sipping a cup of coffee. I am a Microsoft Learn Student Ambassador, MERN Stack developer and i love to contribute to open source community. I am currently exploring React Native.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan-29" alt="karan-29" /></a> </p>
-
 - 🌱 I’m currently learning **REST API's, GRAPHQL, TypeScript, Nextjs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
