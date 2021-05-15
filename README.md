@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning React Native. 
 - 👯 I’m looking to collaborate on various projects related to open source.
-- - ⚡ Fun fact: I am also an actor who loves performing, both on Stage and on the Desk.
+- ⚡ Fun fact: I am also an actor who loves performing, both on Stage and on the Desk.
 <!--
 **Karan-29/Karan-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
