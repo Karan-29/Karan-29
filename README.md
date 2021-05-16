@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karanudayandas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="karanudayandas2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karan-udayan-das-895b45190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="karan udayan das" height="30" width="40" /></a>
-<a href="https://fb.com/karan9547/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="karan udayan das" height="30" width="40" /></a>
-<a href="https://instagram.com/karan_udayan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="karan_udayan_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karan_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="karan-29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-udayan-das-895b45190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="karan udayan das" height="30" width="40" /></a>
+<a href="mailto:karanudayandas@gmail.com">
+  <img align="left" alt="Karan Udayan Das | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
