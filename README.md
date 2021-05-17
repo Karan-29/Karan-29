@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18Xb8lXXr6bshlvWVbz9urm13JRCw8GGI/view?usp=sharing](https://drive.google.com/file/d/18Xb8lXXr6bshlvWVbz9urm13JRCw8GGI/view?usp=sharing)
 
-- ⚡ Fun fact **I am also an actor who loves performing, both on Stage and on the Desk.**
+- ⚡ Fun fact **A big cricket enthusiast. I am also an actor and i love performing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
