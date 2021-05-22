@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **karanudayandas@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/18Xb8lXXr6bshlvWVbz9urm13JRCw8GGI/view?usp=sharing)
-
 - ⚡ Fun fact **A big cricket enthusiast. I am also an actor and i love performing.**
 
 <h3 align="left">Connect with me:</h3>
